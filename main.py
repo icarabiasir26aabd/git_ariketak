@@ -3,3 +3,5 @@ print("The missile knows where it is at all times. It knows this because it know
 print("Aldaketa egin.")
 
 print("GitHub aldaketa.")
+
+print("Gelak irakurtzeko.")
