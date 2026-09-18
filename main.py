@@ -5,3 +5,5 @@ print("Aldaketa egin.")
 print("GitHub aldaketa.")
 
 print("Gelak irakurtzeko.")
+
+print("Aldaketa berria.")
